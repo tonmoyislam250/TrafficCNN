@@ -321,12 +321,6 @@ INPUT C:\Users\Tonmoy\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epsto
 INPUT C:\Users\Tonmoy\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Tonmoy\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Tonmoy\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT .\presentation.out
-INPUT .\presentation.out
-INPUT presentation.out
-INPUT presentation.out
-INPUT .\presentation.out
-INPUT .\presentation.out
 OUTPUT presentation.out
 INPUT C:\Users\Tonmoy\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-basic-dictionary-English.dict
 INPUT C:\Users\Tonmoy\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-basic-dictionary-English.dict
@@ -354,9 +348,6 @@ INPUT C:\Users\Tonmoy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss12.t
 INPUT C:\Users\Tonmoy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
 INPUT C:\Users\Tonmoy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
 INPUT C:\Users\Tonmoy\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT .\presentation.toc
-INPUT .\presentation.toc
-INPUT presentation.toc
 INPUT C:\Users\Tonmoy\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
 INPUT C:\Users\Tonmoy\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
 INPUT C:\Users\Tonmoy\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty

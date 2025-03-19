@@ -46,11 +46,11 @@ def run(args):
     
     # Train the model
     print("Training the model...")
-    history = model.fit(X_train, y_train, batch_size=args.batch_size, epochs=args.epochs, validation_data=(X_test, y_test))
+    GeneratedModel = model.fit(X_train, y_train, batch_size=args.batch_size, epochs=args.epochs, validation_data=(X_test, y_test))
 
     # Save the model and history
     model.save(os.path.join(model_dir, 'best_model.h5'))
-    np.save(os.path.join(model_dir, 'history.npy'), history.history)
+    np.save(os.path.join(model_dir, 'history.npy'), GeneratedModel.history)
 
     print("----------- Model Training Complete -----------")
 

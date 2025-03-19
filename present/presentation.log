@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.19)  19 MAR 2025 07:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.19)  19 MAR 2025 12:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -638,7 +638,6 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 40.
- (presentation.out) (presentation.out)
 \@outlinefile=\write5
 \openout5 = `presentation.out'.
 
@@ -729,7 +728,8 @@ Overfull \hbox (7.12373pt too wide) in paragraph at lines 48--48
  [][]  
  []
 
-(presentation.toc)
+No file presentation.toc.
+
 
 
 Overfull \hbox (7.12373pt too wide) has occurred while \output is active
@@ -1609,9 +1609,15 @@ or  <return>  to continue without it.
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-Package rerunfilecheck Info: File `presentation.out' has not changed.
-(rerunfilecheck)             Checksum: 6C4E395B9D05F8882C2B5A677A3AC87A;229.
 
+
+Package rerunfilecheck Warning: File `presentation.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `presentation.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  6C4E395B9D05F8882C2B5A677A3AC87A;229.
 c:/Users/Tonmoy/Desktop/WEB/Traffic-Signs-Recognition/present/presentation.tex:463: You can't use `\end' in internal vertical mode.
 \enddocument ...cument/end}\deadcycles \z@ \@@end 
                                                   
@@ -1643,10 +1649,10 @@ or  <return>  to continue without it.
 
  
 Here is how much of TeX's memory you used:
- 23752 strings out of 473522
- 455169 string characters out of 5714125
- 1401237 words of memory out of 5000000
- 46489 multiletter control sequences out of 15000+600000
+ 23700 strings out of 473522
+ 453686 string characters out of 5714125
+ 1400876 words of memory out of 5000000
+ 46443 multiletter control sequences out of 15000+600000
  567219 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,123p,466b,1917s stack positions out of 10000i,1000n,20000p,200000b,200000s
